@@ -1,6 +1,6 @@
 ## Welcome
 
-Hello! I'm Fangzhou Tang. My research interests are communication, millimeter-wave technology, image processing and electromagnetic computing.
+Hello! I'm Fangzhou Tang (02/04/1996). My research interests are communication, millimeter-wave technology, image processing and electromagnetic computing.
 
 Email: fangzhou_tang@126.com
 
@@ -126,11 +126,11 @@ Sep./2016-jun./2017
 
 ## Skills
 
-•	Programming Skills: MATLAB, Java, C, Python, HTML, MySQL
+•	Programming Skills: MATLAB, Java, C, Python, HTML, MySQL.
 
-•	Professional Platform: Visual Studio, OpenCV, CST, HFSS, ADS, Hyperlynx, Windows, Ubuntu, Raspberry-Pi, OpenMP 
+•	Professional Platform: Visual Studio, OpenCV, CST, HFSS, ADS, Hyperlynx, Windows, Ubuntu, Raspberry-Pi, OpenMP. 
 
-•	Language :[Toefl/iBT scores: 96] [Gre: 312]
+•	Language : Toefl/iBT scores: 96, Gre: 312.
 
 ## Awards
 
