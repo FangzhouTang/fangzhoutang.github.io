@@ -20,7 +20,7 @@ GPA: 3.12/4.0
 
 ## Publications
 
-•	**Fangzhou Tang**, Liangqi Gui, Jinbang Liu, Ke Chen, Liang Lang, and Yayun Cheng. Metal Target Detection Method Using Passive Millimeter-wave Polarimetric Imagery[J]. *Optics Express*, 2020, 28(9):13336-13351. **(SCI&EI)**
+•	**Fangzhou Tang**, Liangqi Gui, Jinbang Liu, Ke Chen, Liang Lang, and Yayun Cheng. Metal Target Detection Method Using Passive Millimeter-wave Polarimetric Imagery[J]. *Optics Express*, 2020, 28(9):13336-13351. **(SCI&EI)** [PDF](https://doi.org/10.1364/OE.390385)
 
 •	**Fangzhou Tang**, Liangqi Gui, Shuaidan Yan, Yu Ding, Bo Huang, Ke Chen and Liang Lang Passive Millimeter-Wave Imaging Experiment and Simulation of Bubbles in Ship Wakes[C]. *IEEE International Conference on Microwave and Millimeter Wave Technology (ICMMT)*, Guangzhou, China, May. 2019. **(EI)**
 
@@ -34,7 +34,7 @@ GPA: 3.12/4.0
 
 **Project 1: Research on target polarization characteristics—Target Classification Method based on Polarization Theory** [Group Research]
 
-Advisor: Prof. Liangqi Gui
+Advisor: Prof. Liangqi Gui                                            
 Jan./2019-Apr./2020
 
 •	The polarization theory was used to analyze the millimeter-wave radiation characteristics of materials with different electromagnetic parameters and roughness characteristics under different polarization modes, and an image fusion method based on orthogonal polarization differences was proposed using this characteristic.
@@ -48,7 +48,7 @@ Jan./2019-Apr./2020
 
 **Project 2: Characteristics of Moving Target**[Group Research]
 
-Advisor: Prof. Liangqi Gui							                       
+Advisor: Prof. Liangqi Gui                                                    
 Jan./2018-Dec./2019
 
 •	Aimed to study the millimeter wave radiation characteristics of stealth aircraft and stealth coatings in motion.
@@ -63,7 +63,7 @@ Jan./2018-Dec./2019
 
 **Project 3: Characteristics of Aircraft Plume	Group Research**[Group Research]
 
-Advisor: Prof. Liangqi Gui
+Advisor: Prof. Liangqi Gui                                                 
 Sep./2017-Sep./2018
 
 •	Used Ansys Fluent to simulate the flow field of aircraft tail flames with different fuels and thrusts, including temperature field, electron density distribution, pressure field, etc.
@@ -76,7 +76,7 @@ Sep./2017-Sep./2018
 
 **Project 4: Characteristics of Ship's Wake**[Independent Research]
 
-Advisor: Prof. Liang Lang    	
+Advisor: Prof. Liang Lang                                                     	
 Sep./2018-Dec./2019
 
 •	Used the method of moment, Kirchhoff approximation, small slope approximation and other electromagnetic scattering calculation methods and rough surface theory to establish a radiation calculation model of wake foam
@@ -89,7 +89,7 @@ Sep./2018-Dec./2019
 
 **Project 5: Study on Millimeter Wave Radiation Image Processing	Group Research**[Independent Research]
 
-Advisor: Prof. Liangqi Gui
+Advisor: Prof. Liangqi Gui                                                 
 Sep.Seo/2019-Sep./2018
 
 •	Used basic image filtering, super-resolution, and image registration methods to improve image accuracy and make targets clearer.
@@ -100,7 +100,7 @@ Sep.Seo/2019-Sep./2018
 
 **Project 6: Vehicle Speed Measurement based on Video, National University Student Innovation Training Program**[Group Research]
 
-Advisor: Prof. Yong Yin
+Advisor: Prof. Yong Yin                                                 
 Jun./2015-Jul./2016
 
 •	Set up the VS 2010 environment platform, learn the use of opencv open source library functions, and master basic image processing methods.
@@ -110,7 +110,7 @@ Jun./2015-Jul./2016
 •	Obtained real data through experimental methods and give detailed analysis of the results to verify the correctness of the method.
 
 **Design and Research of Video Ranging System**[Undergraduate Thesis]
-Advisor: Prof. Yangfan Huang
+Advisor: Prof. Yangfan Huang                                                 
 Sep./2016-jun./2017
 
 •	Used MATLAB to complete the image processing methods, including image graying, equalization, filtering, edge detection, dilation corrosion and other image processing methods
