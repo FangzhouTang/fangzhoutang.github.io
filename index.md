@@ -8,7 +8,7 @@ Address: No. 1037 Luoyu Rd., Hongshan Dist., Wuhan, Hubei, China
 
 ## Education
 
-I received my bachelor's degree in electronic and information engineering from The School of Communication Engineering, **Chongqing University(CQU)**, Jun. 2017 and Master degree in Electromagnetic Field and Microwave Technology, School of Electronic Information and Communications, **Huazhong University of Science and Technology(HUST)**, Aug. 2020. At present, the main research interests are target detection, image processing and millimeter-wave technology.
+I received my bachelor's degree in electronic and information engineering from The School of Communication Engineering, Chongqing University(CQU), Jun. 2017 and Master degree in Electromagnetic Field and Microwave Technology, School of Electronic Information and Communications, Huazhong University of Science and Technology(HUST), Aug. 2020. At present, the main research interests are target detection, image processing and millimeter-wave technology.
 
 **Huazhong University of Science and Technology					            Wuhan, China**
 MS in Electromagnetic and Microwave Technology				         Sep/2017-June/2020
@@ -20,11 +20,11 @@ GPA: 3.12/4.0
 
 ## Publications
 
-•	**Fangzhou Tang**, Liangqi Gui, Jinbang Liu, Ke Chen, Liang Lang, and Yayun Cheng. Metal Target Detection Method Using Passive Millimeter-wave Polarimetric Imagery[J]. *Optics Express*, 2020, 28(9):13336-13351. **(SCI&EI)** [PDF](https://doi.org/10.1364/OE.390385)
+•	**Fangzhou Tang**, Liangqi Gui, Jinbang Liu, Ke Chen, Liang Lang, and Yayun Cheng. Metal Target Detection Method Using Passive Millimeter-wave Polarimetric Imagery[J]. *Optics Express*, 2020, 28(9):13336-13351. **(SCI&EI)** [[PDF](https://doi.org/10.1364/OE.390385)]
 
 •	**Fangzhou Tang**, Liangqi Gui, Shuaidan Yan, Yu Ding, Bo Huang, Ke Chen and Liang Lang Passive Millimeter-Wave Imaging Experiment and Simulation of Bubbles in Ship Wakes[C]. *IEEE International Conference on Microwave and Millimeter Wave Technology (ICMMT)*, Guangzhou, China, May. 2019. **(EI)**
 
-•	**Fangzhou Tang**, Liangqi Gui, Kaixin Deng, Ziwei Li, Ke Chen and Liang Lang. Mechanism and Analysis of Object Projected Shadow in Passive Millimeter-Wave Radiation Image[C]. *IEEE International on Microwave and Millimeter Wave Technology (ICMMT)*, Shanghai, China, May. 2020. **(EI)** 
+•	**Fangzhou Tang**, Liangqi Gui, Kaixin Deng, Ziwei Li, Ke Chen and Liang Lang. Mechanism and Analysis of Object Projected Shadow in Passive Millimeter-Wave Radiation Image[C]. *IEEE International Conference on Microwave and Millimeter Wave Technology (ICMMT)*, Shanghai, China, May. 2020. **(EI)** 
 
 •	Yan Zhenghang, Guan Xiaoling, **Tang Fangzhou**, Yin Yong. A Method of Measuring Vehicle Speed Real-Timely Based on Grabbing Non-uniform Video Image Frame[J]. *Electronics World*, 2016. **(CNKI)**
 
