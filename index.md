@@ -19,7 +19,7 @@ B.Eng. in Electronic Information Engineering					         Sep/2013-June/2017
 GPA: 3.12/4.0
 
 ## Publications
-```markdown
+
 •	**Fangzhou Tang**, Liangqi Gui, Jinbang Liu, Ke Chen, Liang Lang, and Yayun Cheng. Metal Target Detection Method Using Passive Millimeter-wave Polarimetric Imagery[J]. *Optics Express*, 2020, 28(9):13336-13351. **(SCI&EI)**
 
 •	**Fangzhou Tang**, Liangqi Gui, Shuaidan Yan, Yu Ding, Bo Huang, Ke Chen and Liang Lang Passive Millimeter-Wave Imaging Experiment and Simulation of Bubbles in Ship Wakes[C]. *IEEE International Conference on Microwave and Millimeter Wave Technology (ICMMT)*, Guangzhou, China, May. 2019. **(EI)**
@@ -29,11 +29,22 @@ GPA: 3.12/4.0
 •	Yan Zhenghang, Guan Xiaoling, **Tang Fangzhou**, Yin Yong. A Method of Measuring Vehicle Speed Real-Timely Based on Grabbing Non-uniform Video Image Frame[J]. *Electronics World*, 2016. **(CNKI)**
 
 •	Yin Yong, Yan Zhenghang, Guan Xiaoling, **Tang Fangzhou**. A Method of Measuring Vehicle Speed Real-Timely Based on Grabbing Non-uniform Video Image Frame. *National Invention Patent, China*. Patent Number: ZL 2016 1 0327118.4. Patent received May, 17, 2016; accepted February, 09, 2018. 
-```
+
 ## Research & Project Experience
 
-**Project 1: Characteristics of Moving Target **       
-Group Research
+**Project 1: Research on target polarization characteristics—Target Classification Method based on Polarization Theory** [Group Research]
+Advisor: Prof. Liangqi Gui
+Jan./2019-Apr./2020
+
+•	The polarization theory was used to analyze the millimeter-wave radiation characteristics of materials with different electromagnetic parameters and roughness characteristics under different polarization modes, and an image fusion method based on orthogonal polarization differences was proposed using this characteristic.
+•	Performed a histogram analysis on the fused image and designed an adaptive threshold classification algorithm to obtain the threshold for distinguishing the target from the background.
+
+•	Evaluated the fused image from the frequency domain, gradient, statistical characteristics, and entropy information, and selected the best image for target detection.
+
+•	The accuracy and feasibility of the target detection method are verified through simulations and actual experiments.
+
+
+**Project 2: Characteristics of Moving Target**[Group Research]
 Advisor: Prof. Liangqi Gui							                       
 Jan./2018-Dec./2019
 
@@ -47,8 +58,9 @@ Jan./2018-Dec./2019
 
 •	Combined the radiation model with different target modeling in MATLAB to, compared and analyzed the results under different conditions to verify the theory.
 
-Project 2: Characteristics of Aircraft Plume	Group Research
-Advisor: Prof. Liangqi Gui                                                                                                          09/2017-09/2018
+**Project 3: Characteristics of Aircraft Plume	Group Research**[Group Research]
+Advisor: Prof. Liangqi Gui
+Sep./2017-Sep./2018
 
 •	Used Ansys Fluent to simulate the flow field of aircraft tail flames with different fuels and thrusts, including temperature field, electron density distribution, pressure field, etc.
 
@@ -58,8 +70,9 @@ Advisor: Prof. Liangqi Gui                                                      
 
 •	Described the change in radiation intensity and detectability of moving targets due to tail flames in practical situations.
 
-Project 3: Characteristics of Ship's Wake                                                      	Independent Research
-Advisor: Prof. Liang Lang    	09/2018-Present
+**Project 4: Characteristics of Ship's Wake**[Independent Research]
+Advisor: Prof. Liang Lang    	
+Sep./2018-Dec./2019
 
 •	Used the method of moment, Kirchhoff approximation, small slope approximation and other electromagnetic scattering calculation methods and rough surface theory to establish a radiation calculation model of wake foam
 
@@ -69,8 +82,9 @@ Advisor: Prof. Liang Lang    	09/2018-Present
 
 •	The polarization theory was used to demonstrate the feasibility of ship wake detection, and the detection accuracy under different polarization modes was compared.
 
-Study on Millimeter Wave Radiation Image Processing	Group Research
-Advisor: Prof. Liangqi Gui                                                                                                          09/2019-09/2018
+**Project 5: Study on Millimeter Wave Radiation Image Processing	Group Research**[Independent Research]
+Advisor: Prof. Liangqi Gui
+Sep.Seo/2019-Sep./2018
 
 •	Used basic image filtering, super-resolution, and image registration methods to improve image accuracy and make targets clearer.
 
@@ -78,9 +92,9 @@ Advisor: Prof. Liangqi Gui                                                      
 
 •	Used radiation theory to give real experimental images that have been lost or replenished with image information before processing.
 
-Vehicle Speed Measurement based on Video, National University Student Innovation Training Program	Group Research
-
-Advisor: Prof. Yong Yin								         06/2015-07/2016
+**Project 6: Vehicle Speed Measurement based on Video, National University Student Innovation Training Program**[Group Research]
+Advisor: Prof. Yong Yin
+Jun./2015-Jul./2016
 
 •	Set up the VS 2010 environment platform, learn the use of opencv open source library functions, and master basic image processing methods.
 
@@ -88,9 +102,9 @@ Advisor: Prof. Yong Yin								         06/2015-07/2016
 
 •	Obtained real data through experimental methods and give detailed analysis of the results to verify the correctness of the method.
 
-Design and Research of Video Ranging System               	Undergraduate Thesis
-
-Advisor: Prof. Yangfan Huang                                                              		                      09/2016-06/2017
+**Design and Research of Video Ranging System**[Undergraduate Thesis]
+Advisor: Prof. Yangfan Huang
+Sep./2016-jun./2017
 
 •	Used MATLAB to complete the image processing methods, including image graying, equalization, filtering, edge detection, dilation corrosion and other image processing methods
 
@@ -100,6 +114,6 @@ Advisor: Prof. Yangfan Huang                                                    
 
 ## Skills
 
-•	Programming Skills: MATLAB, Java, C++, C, Python, HTML, MySQL, Django
+•	Programming Skills: MATLAB, Java, C, Python, HTML, MySQL
 
 •	Professional Platform: Visual Studio, OpenCV, CST, HFSS, ADS, Hyperlynx, Windows, Ubuntu, Raspberry-Pi, OpenMP 
