@@ -129,3 +129,13 @@ Sep./2016-jun./2017
 •	Programming Skills: MATLAB, Java, C, Python, HTML, MySQL
 
 •	Professional Platform: Visual Studio, OpenCV, CST, HFSS, ADS, Hyperlynx, Windows, Ubuntu, Raspberry-Pi, OpenMP 
+
+•	Language :[Toefl/iBT scores: 96] [Gre: 312]
+
+## Awards
+
+•	Merit Graduate student in 2017-2018 academic year
+
+•	Social activist for the 2018-2019 academic year
+
+•	Outstanding Graduate student of 2020 (Summer Vacation)
