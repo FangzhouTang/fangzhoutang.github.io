@@ -1,6 +1,6 @@
 ## Welcome
 
-Hello! I'm Fangzhou Tang, interested on communication, millimeter-wave technology, image processing and electromagnetic computing.
+Hello! I'm Fangzhou Tang. My research interests are communication, millimeter-wave technology, image processing and electromagnetic computing.
 
 Email: fangzhou_tang@126.com
 
@@ -8,7 +8,7 @@ Address: No. 1037 Luoyu Rd., Hongshan Dist., Wuhan, Hubei, China
 
 ## Education
 
-I received my bachelor's degree in engineering from The School of Communication Engineering, **Chongqing University(CQU)**, Jun. 2017 and Master degree in Electromagnetic Field and Microwave Technology, School of Electronic Information and Communication, **Huazhong University of Science and Technology(HUST)**, Aug. 2020. At present, the main research interests are target detection, image processing and millimeter-wave technology.
+I received my bachelor's degree in electronic and information engineering from The School of Communication Engineering, **Chongqing University(CQU)**, Jun. 2017 and Master degree in Electromagnetic Field and Microwave Technology, School of Electronic Information and Communications, **Huazhong University of Science and Technology(HUST)**, Aug. 2020. At present, the main research interests are target detection, image processing and millimeter-wave technology.
 
 **Huazhong University of Science and Technology					            Wuhan, China**
 MS in Electromagnetic and Microwave Technology				         Sep/2017-June/2020
@@ -33,10 +33,12 @@ GPA: 3.12/4.0
 ## Research & Project Experience
 
 **Project 1: Research on target polarization characteristics—Target Classification Method based on Polarization Theory** [Group Research]
+
 Advisor: Prof. Liangqi Gui
 Jan./2019-Apr./2020
 
 •	The polarization theory was used to analyze the millimeter-wave radiation characteristics of materials with different electromagnetic parameters and roughness characteristics under different polarization modes, and an image fusion method based on orthogonal polarization differences was proposed using this characteristic.
+
 •	Performed a histogram analysis on the fused image and designed an adaptive threshold classification algorithm to obtain the threshold for distinguishing the target from the background.
 
 •	Evaluated the fused image from the frequency domain, gradient, statistical characteristics, and entropy information, and selected the best image for target detection.
@@ -45,6 +47,7 @@ Jan./2019-Apr./2020
 
 
 **Project 2: Characteristics of Moving Target**[Group Research]
+
 Advisor: Prof. Liangqi Gui							                       
 Jan./2018-Dec./2019
 
@@ -59,6 +62,7 @@ Jan./2018-Dec./2019
 •	Combined the radiation model with different target modeling in MATLAB to, compared and analyzed the results under different conditions to verify the theory.
 
 **Project 3: Characteristics of Aircraft Plume	Group Research**[Group Research]
+
 Advisor: Prof. Liangqi Gui
 Sep./2017-Sep./2018
 
@@ -71,6 +75,7 @@ Sep./2017-Sep./2018
 •	Described the change in radiation intensity and detectability of moving targets due to tail flames in practical situations.
 
 **Project 4: Characteristics of Ship's Wake**[Independent Research]
+
 Advisor: Prof. Liang Lang    	
 Sep./2018-Dec./2019
 
@@ -83,6 +88,7 @@ Sep./2018-Dec./2019
 •	The polarization theory was used to demonstrate the feasibility of ship wake detection, and the detection accuracy under different polarization modes was compared.
 
 **Project 5: Study on Millimeter Wave Radiation Image Processing	Group Research**[Independent Research]
+
 Advisor: Prof. Liangqi Gui
 Sep.Seo/2019-Sep./2018
 
@@ -93,6 +99,7 @@ Sep.Seo/2019-Sep./2018
 •	Used radiation theory to give real experimental images that have been lost or replenished with image information before processing.
 
 **Project 6: Vehicle Speed Measurement based on Video, National University Student Innovation Training Program**[Group Research]
+
 Advisor: Prof. Yong Yin
 Jun./2015-Jul./2016
 
