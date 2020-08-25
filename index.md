@@ -147,8 +147,10 @@ Sep./2016-jun./2017
 
 ## Awards
 
-•	Merit Graduate student in 2017-2018 academic year
+•	Merit Graduate student in 2017-2018
 
-•	Social activist for the 2018-2019 academic year
+•	Academic Scholarship in 2017-2019
 
-•	Outstanding Graduate student of 2020 (Summer Vacation)
+•	Social activist for the 2018-2019 
+
+•	Outstanding Master of 2020 (Summer)
