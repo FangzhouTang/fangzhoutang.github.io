@@ -26,7 +26,7 @@ GPA: 3.12/4.0
 
 •	**Fangzhou Tang**, Liangqi Gui * , Jinbang Liu, Ke Chen, Liang Lang, and Yayun Cheng. Metal Target Detection Method Using Passive Millimeter-wave Polarimetric Imagery[J]. *Optics Express*, 2020, 28(9):13336-13351. **(SCI&EI)** [[PDF](https://doi.org/10.1364/OE.390385)]
 
-•	**Fangzhou Tang**. Research on characteristics analysis and target detection method in millimeter-wave radiation image of ship target on sea surface[D]. *Huazhong University of Science and Technology*, 2020. **(CNKI)** [in Publishing]
+•	**Fangzhou Tang**. Research on characteristics analysis and target detection method in millimeter-wave radiation image of ship target on sea surface[D]. *Huazhong University of Science and Technology*, 2020. **(Master's Thesis)** [in Publishing]
 
 •	**Fangzhou Tang**, Liangqi Gui * , Shuaidan Yan, Yu Ding, Bo Huang, Ke Chen and Liang Lang. Passive Millimeter-Wave Imaging Experiment and Simulation of Bubbles in Ship Wakes[C]. *IEEE International Conference on Microwave and Millimeter Wave Technology (ICMMT)*, Guangzhou, China, May. 2019. **(EI)**[[PDF]( https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8992427)]
 
