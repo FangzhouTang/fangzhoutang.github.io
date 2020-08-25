@@ -151,6 +151,6 @@ Sep./2016-jun./2017
 
 •	Academic Scholarship in 2017-2019
 
-•	Social activist for the 2018-2019 
+•	Social activist in 2018-2019 
 
-•	Outstanding Master of 2020 (Summer)
+•	Outstanding Master in 2020 (Summer)
