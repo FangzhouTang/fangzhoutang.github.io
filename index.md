@@ -143,7 +143,7 @@ Sep./2016-jun./2017
 
 •	Professional Platform: Visual Studio, OpenCV, CST, HFSS, ADS, Hyperlynx, Windows, Ubuntu, Raspberry-Pi, OpenMP. 
 
-•	Language : Toefl/iBT scores: 96, Gre: 312.
+•	Language : Toefl/iBT scores: 89/96, Gre: 312.
 
 ## Awards
 
