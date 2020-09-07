@@ -10,21 +10,25 @@ Address: No. 1037 Luoyu Rd., Hongshan Dist., Wuhan, Hubei, China
 
 I received my bachelor's degree in electronic and information engineering from The School of Communication Engineering, Chongqing University(CQU), Jun. 2017 and Master degree in Electromagnetic Field and Microwave Technology, School of Electronic Information and Communications, Huazhong University of Science and Technology(HUST), Aug. 2020. At present, the main research interests are target detection, image processing and millimeter-wave technology.
 
-**Huazhong University of Science and Technology					            Wuhan, China**
+**Huazhong University of Science and Technology					            ,Wuhan China**
 
 MS in Electromagnetic and Microwave Technology				       
 Sep/2017-June/2020				       
 GPA: 3.32/4.0				       
 
-**Chongqing University   				          	           			     Chongqing, China**
+**Chongqing University   				          	           			     ,Chongqing China**
 
 B.Eng. in Electronic Information Engineering					         
 Sep/2013-June/2017				       
 GPA: 3.12/4.0				
 
 ## Work Experience
-**Huazhong University of Science and Technology                     Wuhan, China**
-Research Assistant in National Key Laboratory of Science and Technology on Multi-Spectral Information Processing, School of Electronic Information and Communications.            09/2020-Present
+
+**Huazhong University of Science and Technology                     ,Wuhan China**
+
+Research Assistant in National Key Laboratory of Science and Technology on Multi-Spectral Information Processing, School of Electronic Information and Communications.
+
+09/2020-Present
 
 
 ## Publications
