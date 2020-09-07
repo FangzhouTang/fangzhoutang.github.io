@@ -28,7 +28,7 @@ GPA: 3.12/4.0
 
 Research Assistant in National Key Laboratory of Science and Technology on Multi-Spectral Information Processing, School of Electronic Information and Communications.
 
-09/2020-Present
+Sep/2020-Present
 
 
 ## Publications
