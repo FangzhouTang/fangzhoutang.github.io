@@ -20,7 +20,12 @@ GPA: 3.32/4.0
 
 B.Eng. in Electronic Information Engineering					         
 Sep/2013-June/2017				       
-GPA: 3.12/4.0				       
+GPA: 3.12/4.0				
+
+## Work Experience
+**Huazhong University of Science and Technology                     Wuhan, China**
+Research Assistant in National Key Laboratory of Science and Technology on Multi-Spectral Information Processing, School of Electronic Information and Communications.            09/2020-Present
+
 
 ## Publications
 
