@@ -1,12 +1,12 @@
 ## Welcome
 
-Hello! I'm Fangzhou Tang (02/04/1996). 
+### Hello! I'm Fangzhou Tang (02/04/1996). 
 
-My research interests are satellite navigation and positioning communication, millimeter-wave technology, image processing and electromagnetic computing.
+### My research interests are satellite navigation and positioning communication, millimeter-wave technology, image processing and electromagnetic computing.
 
-Email: fangzhou_tang@126.com
+### Email: fangzhou_tang@126.com
 
-Address: No. 1037 Luoyu Rd., Hongshan Dist., Wuhan, Hubei, China
+### Address: No. 1037 Luoyu Rd., Hongshan Dist., Wuhan, Hubei, China
 
 ## Education
 
@@ -17,13 +17,13 @@ I received my bachelor's degree in electronic and information engineering from T
 PhD in Electromagnetic and Microwave Technology				       
 Sep/2021-June/2025	
 
-**Huazhong University of Science and Technology					            ,Wuhan China**
+### **Huazhong University of Science and Technology					            ,Wuhan China**
 
 MS in Electromagnetic and Microwave Technology				       
 Sep/2017-June/2020				       
 GPA: 3.32/4.0				       
 
-**Chongqing University   				          	           			     ,Chongqing China**
+### **Chongqing University   				          	           			     ,Chongqing China**
 
 B.Eng. in Electronic Information Engineering					         
 Sep/2013-June/2017				       
