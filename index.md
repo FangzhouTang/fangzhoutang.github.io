@@ -2,7 +2,7 @@
 
 Hello! I'm Fangzhou Tang (02/04/1996). 
 
-My research interests are communication, millimeter-wave technology, image processing and electromagnetic computing.
+My research interests are satellite navigation and positioning communication, millimeter-wave technology, image processing and electromagnetic computing.
 
 Email: fangzhou_tang@126.com
 
@@ -11,6 +11,11 @@ Address: No. 1037 Luoyu Rd., Hongshan Dist., Wuhan, Hubei, China
 ## Education
 
 I received my bachelor's degree in electronic and information engineering from The School of Communication Engineering, Chongqing University(CQU), Jun. 2017 and Master degree in Electromagnetic Field and Microwave Technology, School of Electronic Information and Communications, Huazhong University of Science and Technology(HUST), Aug. 2020. The main research interests are target detection, image processing and millimeter-wave technology. At present, I'm a research assistant in HUST. From Sep. 2021 to June. 2025. I will persue my PhD degree in Peking University. The research interest in Satellite Navigation and Positioning.
+
+**Peking University   				                                      ,Beijing China**
+
+PhD in Electromagnetic and Microwave Technology				       
+Sep/2021-June/2025	
 
 **Huazhong University of Science and Technology					            ,Wuhan China**
 
@@ -23,12 +28,7 @@ GPA: 3.32/4.0
 B.Eng. in Electronic Information Engineering					         
 Sep/2013-June/2017				       
 GPA: 3.12/4.0				
-
-**Peking University of 				                                      ,Beijing China**
-
-PhD in Electromagnetic and Microwave Technology				       
-Sep/2021-June/2025				       				       
-
+			       				       
 ## Work Experience
 
 **Huazhong University of Science and Technology                     ,Wuhan China**
