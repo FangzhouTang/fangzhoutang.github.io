@@ -1,12 +1,12 @@
 ## Welcome
 
-### Hello! I'm Fangzhou Tang (02/04/1996). 
+Hello! I'm Fangzhou Tang (02/04/1996). 
 
-### My research interests are satellite navigation and positioning communication, millimeter-wave technology, image processing and electromagnetic computing.
+My research interests are satellite navigation and positioning communication, millimeter-wave technology, image processing and electromagnetic computing.
 
-### Email: fangzhou_tang@126.com
+Email: fangzhou_tang@126.com
 
-### Address: No. 1037 Luoyu Rd., Hongshan Dist., Wuhan, Hubei, China
+Address: No. 1037 Luoyu Rd., Hongshan Dist., Wuhan, Hubei, China
 
 ## Education
 
