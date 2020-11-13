@@ -31,7 +31,7 @@ GPA: 3.12/4.0
 			       				       
 ## Work Experience
 
-**Huazhong University of Science and Technology                     ,Wuhan China**
+### **Huazhong University of Science and Technology                     ,Wuhan China**
 
 Research Assistant in National Key Laboratory of Science and Technology on Multi-Spectral Information Processing, School of Electronic Information and Communications.
 
