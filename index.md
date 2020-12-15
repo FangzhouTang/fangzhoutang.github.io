@@ -1,8 +1,8 @@
 ## Welcome
 
-Hello! I'm Fangzhou Tang (02/04/1996). 
+Hello! I'm Fangzhou Tang (Feb.04 1996). 
 
-My research interests are satellite navigation and positioning communication, millimeter-wave technology, image processing and electromagnetic computing.
+My research interests are satellite navigation and positioning, communication, millimeter-wave technology, image processing and electromagnetic computing.
 
 Email: fangzhou_tang@126.com
 
@@ -10,23 +10,23 @@ Address: No. 1037 Luoyu Rd., Hongshan Dist., Wuhan, Hubei, China
 
 ## Education
 
-I received my bachelor's degree in electronic and information engineering from The School of Communication Engineering, Chongqing University(CQU), Jun. 2017 and Master degree in Electromagnetic Field and Microwave Technology, School of Electronic Information and Communications, Huazhong University of Science and Technology(HUST), Aug. 2020. The main research interests are target detection, image processing and millimeter-wave technology. At present, I'm a research assistant in HUST. From Sep. 2021 to June. 2025. I will persue my PhD degree in Peking University. The research interest in Satellite Navigation and Positioning.
+I received my bachelor degree in electronic and information engineering from School of Communication Engineering, Chongqing University(CQU), Jun. 2017 and Master degree in Electromagnetic Field and Microwave Technology, School of Electronic Information and Communications, Huazhong University of Science and Technology(HUST), Aug. 2020. The main research interests are target detection, image processing and millimeter-wave technology. At present, I'm a research assistant in HUST. From Sep. 2021 to June. 2025. I will persue my PhD in Peking University. The research interest in Satellite Navigation and Positioning.
 
 ### **Peking University   				                                      ,Beijing China**
 
 PhD in Electromagnetic and Microwave Technology				       
-Sep/2021-June/2025	
+Sep. 2021-Jun. 2025	
 
 ### **Huazhong University of Science and Technology					            ,Wuhan China**
 
 MS in Electromagnetic and Microwave Technology				       
-Sep/2017-June/2020				       
+Sep. 2017-Jun. 2020				       
 GPA: 3.32/4.0				       
 
 ### **Chongqing University   				          	           			     ,Chongqing China**
 
 B.Eng. in Electronic Information Engineering					         
-Sep/2013-June/2017				       
+Sep. 2013-Jun. 2017				       
 GPA: 3.12/4.0				
 			       				       
 ## Work Experience
@@ -35,7 +35,7 @@ GPA: 3.12/4.0
 
 Research Assistant in National Key Laboratory of Science and Technology on Multi-Spectral Information Processing, School of Electronic Information and Communications.
 
-Sep/2020-June/2021
+Sep. 2020-Jun. 2021
 
 
 ## Publications
@@ -163,10 +163,12 @@ Sep./2016-jun./2017
 
 ## Awards
 
-•	Merit Graduate student in 2017-2018
+•	Excellent Undergraduate in 2016-2017
+
+•	Excellent Post-Graduate in 2017-2018
 
 •	Academic Scholarship in 2017-2019
 
-•	Social activist in 2018-2019 
+•	Social Activist in 2018-2019 
 
-•	Outstanding Master in 2020 (Summer)
+•	Excellent Master of Science in Engineering in 2020 (Summer)
