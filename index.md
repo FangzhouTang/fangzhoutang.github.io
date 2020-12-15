@@ -15,20 +15,27 @@ I received my bachelor degree in electronic and information engineering from Sch
 ### **Peking University   				                                      ,Beijing China**
 
 PhD in Electromagnetic and Microwave Technology	
+
 Advisor: Prof.Bocheng Zhu
+
 Sep. 2021-Jun. 2025	
 
 ### **Huazhong University of Science and Technology					            ,Wuhan China**
 
 MS in Electromagnetic and Microwave Technology
+
 Advisor: Prof.Liangqi Gui
-Sep. 2017-Jun. 2020				       
+
+Sep. 2017-Jun. 2020		
+
 GPA: 3.32/4.0				       
 
 ### **Chongqing University   				          	           			     ,Chongqing China**
 
-B.Eng. in Electronic Information Engineering					         
-Sep. 2013-Jun. 2017				       
+B.Eng. in Electronic Information Engineering	
+
+Sep. 2013-Jun. 2017		
+
 GPA: 3.12/4.0				
 			       				       
 ## Work Experience
