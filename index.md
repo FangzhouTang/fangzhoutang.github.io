@@ -175,11 +175,12 @@ Sep./2016-jun./2017
 
 •	Professional Platform: Visual Studio, OpenCV, CST, HFSS, ADS, Hyperlynx, Windows, Ubuntu, Raspberry-Pi, OpenMP. 
 
-•	Language : Toefl/iBT scores: 89/96, Gre: 312.
+•	English Level: Toefl/iBT: 89/96, Gre: 312.
 
 ## Awards
 
 **Chongqing University**
+
 • Academic Scholarship in 2013-2015
 
 • Excellent Undergraduate in 2016-2017
@@ -188,6 +189,7 @@ Sep./2016-jun./2017
 
 
 **Huazhong University of Science and Technology**
+
 • Excellent Post-Graduate in 2017-2018
 
 • Academic Scholarship in 2017-2019
