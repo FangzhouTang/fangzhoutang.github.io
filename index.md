@@ -14,9 +14,9 @@ I received my bachelor degree in Electronic and Information Engineering from Sch
 
 ### **Peking University  				                                                                                               ,Beijing China**
 
-#####**Ph.D. student in Electromagnetic and Microwave Technology**                                                                                           
+**Ph.D. student in Electromagnetic and Microwave Technology**                                                                                           
 
-##Department of Electronics, School of Electronics Engineering and Computer Science
+**Department of Electronics, School of Electronics Engineering and Computer Science**
 
 Sep. 2021-Jun. 2025
 
