@@ -2,7 +2,7 @@
 
 Hello! I'm Fangzhou Tang (Feb.04 1996). 
 
-My research interests are satellite navigation and positioning, communication, millimeter-wave technology, image processing and electromagnetic computing.
+My research interests are satellite navigation and positioning, inertial navigation, communication, millimeter-wave technology, image processing and electromagnetic computing.
 
 Email: fangzhou_tang@126.com
 
@@ -10,11 +10,13 @@ Address: No. 1037 Luoyu Rd., Hongshan Dist., Wuhan, Hubei, China
 
 ## Education
 
-I received my bachelor degree in electronic and information engineering from School of Communication Engineering, Chongqing University(CQU), Jun. 2017 and Master degree in Electromagnetic Field and Microwave Technology, School of Electronic Information and Communications, Huazhong University of Science and Technology(HUST), Aug. 2020. The main research interests are target detection, image processing and millimeter-wave technology. At present, I'm a research assistant in HUST. From Sep. 2021 to June. 2025. I will persue my PhD in Electromagnetic Field and Microwave Technology, Department of Electronics, School of Electronics Engineering and Computer Science, Peking University(PKU). The research interest in Satellite Navigation and Positioning.
+I received my bachelor degree in Electronic and Information Engineering from School of Microelectronics and Communication Engineering, Chongqing University(CQU), Jun. 2017 and Master degree in Electromagnetic Field and Microwave Technology, Department of Electronic Engineering, School of Electronic Information and Communications, Huazhong University of Science and Technology(HUST), Aug. 2020. The main research interests are target detection, image processing and millimeter-wave technology. At present, I'm a research assistant of Department of Electronic Engineering in HUST. From Sep. 2021 to June. 2025. I will persue my Ph.D. degree in Electromagnetic Field and Microwave Technology, Department of Electronics, School of Electronics Engineering and Computer Science, Peking University(PKU). The research interest in Satellite Navigation and Positioning.
 
 ### **Peking University   				                                      ,Beijing China**
 
-PhD in Electromagnetic and Microwave Technology	
+Ph.D. student in Electromagnetic and Microwave Technology
+
+Department of Electronics, School of Electronics Engineering and Computer Science
 
 Advisor: Prof.Bocheng Zhu
 
@@ -23,6 +25,8 @@ Sep. 2021-Jun. 2025
 ### **Huazhong University of Science and Technology					            ,Wuhan China**
 
 MS in Electromagnetic and Microwave Technology
+
+Department of Electronic Engineering, School of Electronic Information and Communications
 
 Advisor: Prof.Liangqi Gui
 
@@ -33,6 +37,8 @@ GPA: 3.32/4.0
 ### **Chongqing University   				          	           			     ,Chongqing China**
 
 B.Eng. in Electronic Information Engineering	
+
+School of Microelectronics and Communication Engineering
 
 Sep. 2013-Jun. 2017		
 
@@ -172,12 +178,20 @@ Sep./2016-jun./2017
 
 ## Awards
 
-•	Excellent Undergraduate in 2016-2017
+Chongqing University
+• Academic Scholarship in 2013-2015
 
-•	Excellent Post-Graduate in 2017-2018
+• Excellent Undergraduate in 2016-2017
 
-•	Academic Scholarship in 2017-2019
+• Excellent Bachelor of Science in Engineering in 2017
 
-•	Social Activist in 2018-2019 
 
-•	Excellent Master of Science in Engineering in 2020 (Summer)
+Huazhong University of Science and Technology
+• Excellent Post-Graduate in 2017-2018
+
+• Academic Scholarship in 2017-2019
+
+• Social Activist in 2018-2019
+
+• Excellent Master of Science in Engineering in 2020 (Summer)
+
