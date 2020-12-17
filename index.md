@@ -179,7 +179,7 @@ Sep./2016-jun./2017
 
 ## Awards
 
-Chongqing University
+**Chongqing University**
 • Academic Scholarship in 2013-2015
 
 • Excellent Undergraduate in 2016-2017
@@ -187,7 +187,7 @@ Chongqing University
 • Excellent Bachelor of Science in Engineering in 2017
 
 
-Huazhong University of Science and Technology
+**Huazhong University of Science and Technology**
 • Excellent Post-Graduate in 2017-2018
 
 • Academic Scholarship in 2017-2019
