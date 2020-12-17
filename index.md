@@ -25,9 +25,9 @@ Advisor: Prof.Bocheng Zhu
 	
 ### **Huazhong University of Science and Technology					            ,Wuhan China**
 
-MS in Electromagnetic and Microwave Technology
+**MS in Electromagnetic and Microwave Technology
 
-Department of Electronic Engineering, School of Electronic Information and Communications
+**Department of Electronic Engineering, School of Electronic Information and Communications
 
 Advisor: Prof.Liangqi Gui
 
@@ -35,11 +35,11 @@ Sep. 2017-Jun. 2020
 
 GPA: 3.32/4.0				       
 
-### **Chongqing University   				          	           			     ,Chongqing China**
+#### **Chongqing University   				          	           			     ,Chongqing China**
 
-B.Eng. in Electronic Information Engineering	
+**B.Eng. in Electronic Information Engineering	
 
-School of Microelectronics and Communication Engineering
+**School of Microelectronics and Communication Engineering
 
 Sep. 2013-Jun. 2017		
 
