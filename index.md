@@ -10,7 +10,7 @@ Address: No. 1037 Luoyu Rd., Hongshan Dist., Wuhan, Hubei, China
 
 ## Education
 
-I received my bachelor degree in Electronic and Information Engineering from School of Microelectronics and Communication Engineering, Chongqing University(CQU), Jun. 2017 and Master degree in Electromagnetic Field and Microwave Technology, Department of Electronic Engineering, School of Electronic Information and Communications, Huazhong University of Science and Technology(HUST), Aug. 2020. The main research interests are target detection, image processing and millimeter-wave technology. At present, I'm a research assistant of Department of Electronic Engineering in HUST. From Sep. 2021 to June. 2025. I will persue my Ph.D. degree in Electromagnetic Field and Microwave Technology, Department of Electronics, School of Electronics Engineering and Computer Science, Peking University(PKU). The research interest in Satellite Navigation and Positioning.
+I received my B.S. degree in Electronic and Information Engineering from School of Microelectronics and Communication Engineering, Chongqing University(CQU), Jun. 2017 and M.S. degree in Electromagnetic Field and Microwave Technology, Department of Electronic Engineering, School of Electronic Information and Communications, Huazhong University of Science and Technology(HUST), Aug. 2020. The main research interests are target detection, image processing and millimeter-wave technology. At present, I'm a research assistant of Department of Electronic Engineering in HUST. From Sep. 2021 to June. 2025. I will persue my Ph.D. degree in Electromagnetic Field and Microwave Technology, Department of Electronics, School of Electronics Engineering and Computer Science, Peking University(PKU). The research interest in Satellite Navigation and Positioning.
 
 ### **Peking University  				                                                                                               ,Beijing China**
 
@@ -25,7 +25,7 @@ Advisor: Prof.Bocheng Zhu
 	
 ### **Huazhong University of Science and Technology					            ,Wuhan China**
 
-**MS in Electromagnetic and Microwave Technology**
+**M.S. in Electromagnetic and Microwave Technology**
 
 **Department of Electronic Engineering, School of Electronic Information and Communications**
 
@@ -37,7 +37,7 @@ GPA: 3.32/4.0
 
 ### **Chongqing University   				          	           			     ,Chongqing China**
 
-**B.Eng. in Electronic Information Engineering**	
+**B.S. in Electronic Information Engineering**	
 
 **School of Microelectronics and Communication Engineering**
 
