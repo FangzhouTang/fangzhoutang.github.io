@@ -6,7 +6,7 @@ My research interests are satellite navigation and positioning, inertial navigat
 
 Email: fangzhou_tang@126.com
 
-Address: No. 1037 Luoyu Rd., Hongshan Dist., Wuhan, Hubei, China
+Address: No. 5 Yiheyuan Rd., Haidian Dist., Beijing, P.R.China
 
 ## Education
 
