@@ -11,14 +11,14 @@ Address: No. 5 Yiheyuan Rd., Haidian Dist., Beijing, P.R.China
 <table border="0">
   <tr>
     <td width="75%">
-      <h1>张三</h1>
-      <p><b>硕士研究生</b></p>
-      <p><b>××大学××学院</b></p>
-      <p><b>邮箱：1234567789@qq.com</b></p>
-      <p><b>地址：××市××区××路××号××大学，××楼，邮编×××</b></p>
+      <h1>Hello! I'm Fangzhou Tang (Feb.04 1996)</h1>
+      <p><b>Ph.D. Student</b></p>
+      <p><b>Peking University</b></p>
+      <p><b>Email: fangzhou_tang@126.com</b></p>
+      <p><b>Address: No. 5 Yiheyuan Rd., Haidian Dist., Beijing, P.R.China</b></p>
     </td>
     <td width="25%">
-      <img src="/Portrait.jpg" width="100%">      % 插入证件照代码
+      <img src="/Portrait.jpg" width="100%">      
     </td>
   </tr>
 </table>
