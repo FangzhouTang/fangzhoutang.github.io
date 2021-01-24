@@ -16,6 +16,8 @@ I received my B.S. degree in Electronic and Information Engineering from School 
 
 **Ph.D. student in Electromagnetic and Microwave Technology**                                                                                           
 
+**Research Interest: Satellite Navigation and Positioning**
+
 **Department of Electronics, School of Electronics Engineering and Computer Science**
 
 Sep. 2021-Jun. 2025
@@ -27,6 +29,8 @@ Advisor: Prof.Bocheng Zhu
 
 **M.S. in Electromagnetic and Microwave Technology**
 
+**Research Interest: Millimeter Wave (MMW)/ Terahertz (THz) imaging technology**
+
 **Department of Electronic Engineering, School of Electronic Information and Communications**
 
 Advisor: Prof.Liangqi Gui
@@ -35,7 +39,7 @@ Sep. 2017-Jun. 2020
 
 GPA: 3.32/4.0				       
 
-### **Chongqing University   				          	           			     ,Chongqing China**
+### **Chongqing University   				          	        <p align="right" >Chongqing</p>   			     ,Chongqing China**
 
 **B.S. in Electronic Information Engineering**	
 
