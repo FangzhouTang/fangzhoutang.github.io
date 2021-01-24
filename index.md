@@ -39,7 +39,7 @@ Sep. 2017-Jun. 2020
 
 GPA: 3.32/4.0				       
 
-### **Chongqing University   				          	        <p align="right" >Chongqing</p>   			     ,Chongqing China**
+### **Chongqing University   				          	       			     ,Chongqing China**
 
 **B.S. in Electronic Information Engineering**	
 
