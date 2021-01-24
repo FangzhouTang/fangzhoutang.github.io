@@ -11,9 +11,11 @@ Address: No. 5 Yiheyuan Rd., Haidian Dist., Beijing, P.R.China
 <table border="0">
   <tr>
     <td width="75%">
-      <h1>Hello! I'm Fangzhou Tang (Feb.04 1996)</h1>
+      <p><b><h1>Hello!</b></p>
       <p><b>Ph.D. Student</b></p>
       <p><b>Peking University</b></p>
+      <p><b>Research interests are satellite navigation and positioning, inertial navigation, communication, millimeter-wave technology, image processing and electromagnetic computing</b></p>   
+      <p><b>Birth Date: Feb.04 1996</b></p>
       <p><b>Email: fangzhou_tang@126.com</b></p>
       <p><b>Address: No. 5 Yiheyuan Rd., Haidian Dist., Beijing, P.R.China</b></p>
     </td>
