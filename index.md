@@ -5,7 +5,7 @@ Hello! I'm Fangzhou Tang (Feb.04 1996).
 Research Interests:<br>
 (1) Satellite navigation and positioning, inertial navigation, intergated navigation;<br>
 (2) Communication, millimeter-wave technology;<br>
-(3) image processing and electromagnetic computing.
+(3) Image processing and electromagnetic computing.
 
 Email: fangzhou_tang@126.com
 
