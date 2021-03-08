@@ -206,7 +206,11 @@ Sep./2016-jun./2017
 • Excellent Master of Science in Engineering in 2020 (Summer)
 
 ## Contacts
+Scholars@Peking University: in press<br>
+
 Research Gate: researchgate.net/profile/Fangzhou-Tang<br>
+
 Linkedin: linkedin.com/in/fangzhou-tang-69773519a<br>
+
 Sina Weibo: weibo.com/p/1005055449688128/home?from=page_100505&mod=TAB&is_all=1#place
 
