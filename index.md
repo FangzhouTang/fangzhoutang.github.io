@@ -205,3 +205,8 @@ Sep./2016-jun./2017
 
 • Excellent Master of Science in Engineering in 2020 (Summer)
 
+## Contacts
+Research Gate: www.researchgate.net/profile/Fangzhou-Tang
+Linkedin: linkedin.com/in/fangzhou-tang-69773519a
+Sina Weibo: weibo.com/p/1005055449688128/home?from=page_100505&mod=TAB&is_all=1#place
+
