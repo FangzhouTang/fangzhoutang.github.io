@@ -71,6 +71,8 @@ Sep. 2020-Jun. 2021
 
 •	**Fangzhou Tang**, Liangqi Gui * , Kaixin Deng, Ziwei Li, Ke Chen and Liang Lang. Analysis of Shadow in Passive Millimeter-Wave Radiation Image[C]. *IEEE International Conference on Microwave and Millimeter Wave Technology (ICMMT)*, Shanghai, China, Sep. 2020. **(EI)** [in Publishing]
 
+•	Xinling Liu, Liangqi Gui * , **Fangzhou Tang**, Yubin Jin, Ke Chen, Liang Lang Impact of Zooplankton on Underwater Wireless Optical Channel Transmission[C]. *IEEE International Conference on Microwave and Millimeter Wave Technology (ICMMT)*, Nanjing, China, May. 2021. **(EI)**[in Publishing]
+
 •	Shuaidan Yan, Liangqi Gui * , **Fangzhou Tang**, Jinbang Liu, Ke Chen, and Liang Lang. Passive Millimeter-Wave Radiation Characteristic Analysis of Kelvin Wake[C]. *IEEE International Conference on Microwave and Millimeter Wave Technology (ICMMT)*, Shanghai, China, Sep. 2020. **(EI)**[in Publishing]
 
 •	Yu Ding, Liangqi Gui * , Xiong Chen, Feng Zhao, **Fangzhou Tang**, Bo Huang, Chongbin Yao, Zhe Zhang. Simulation and Experiment of Millimeter Wave Radiation of Non-uniform Temperature Stealth Coating[C]. *National Conference on Microwave Millimeter Wave (NCMMW)*, Shanghai, China, Sep. 2020. **(CNKI)**[in Publishing]
@@ -206,7 +208,7 @@ Sep./2016-jun./2017
 • Excellent Master of Science in Engineering in 2020 (Summer)
 
 ## Contacts
-Scholars@Peking University: Link in Peking University (in press)<br>
+Scholars@Peking University: Link in School of Electronics Engineering and Computer Science Peking University (in press)<br>
 
 Research Gate: [Link in Research Gate](researchgate.net/profile/Fangzhou-Tang)<br>
 
