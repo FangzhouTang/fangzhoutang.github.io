@@ -73,7 +73,7 @@ Sep. 2020-Jun. 2021
 
 •	Xinling Liu, Liangqi Gui * , **Fangzhou Tang**, Yubin Jin, Ke Chen, Liang Lang. Impact of Zooplankton on Underwater Wireless Optical Channel Transmission[C]. *IEEE International Conference on Microwave and Millimeter Wave Technology (ICMMT)*, Nanjing, China, May. 2021. **(EI)**[in Publishing]
 
-•	Kaixin Deng, Liangqi Gui*, Wenning Xu, **Fangzhou Tang**, Ke Chen and Liang Lang. Target Detection Method Based on Reflection in Passive Millimeter-Wave Radiation Image[C]. *IEEE International Conference on Microwave and Millimeter Wave Technology (ICMMT)*, Nanjing, China, May. 2021. **(EI)**[in Publishing]
+•	Kaixin Deng, Liangqi Gui * , Wenning Xu, **Fangzhou Tang**, Ke Chen and Liang Lang. Target Detection Method Based on Reflection in Passive Millimeter-Wave Radiation Image[C]. *IEEE International Conference on Microwave and Millimeter Wave Technology (ICMMT)*, Nanjing, China, May. 2021. **(EI)**[in Publishing]
 
 •	Shuaidan Yan, Liangqi Gui * , **Fangzhou Tang**, Jinbang Liu, Ke Chen, and Liang Lang. Passive Millimeter-Wave Radiation Characteristic Analysis of Kelvin Wake[C]. *IEEE International Conference on Microwave and Millimeter Wave Technology (ICMMT)*, Shanghai, China, Sep. 2020. **(EI)**[in Publishing]
 
