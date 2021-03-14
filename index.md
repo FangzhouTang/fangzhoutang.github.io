@@ -1,14 +1,14 @@
 ## <h1>Hello! I'm Fangzhou</h1>
-      <p><b>Ph.D. Candidate, Peking University</b></p>
-      <p><b>School of Electronics Engineering and Computer Science</b></p>
-      <p><b>Department of Electronics</b></p>
+      Ph.D. Candidate, Peking University<br>
+      School of Electronics Engineering and Computer Science<br>
+      Department of Electronics<br>
 	    <p><b>Research Interests<br>
                  (1) Satellite navigation and positioning, inertial/intergated navigation;<br>
                  (2) Communication, millimeter-wave technology;<br>
-                 (3) Image processing and electromagnetic computing.</b></p>
-      <p><b>Birthday: Feb.04 1996</b></p>
-      <p><b>Email: fangzhou_tang@126.com</b></p>
-      <p><b>Address: No. 5 Yiheyuan Rd., Haidian Dist., Beijing, P.R.China</b></p>
+                 (3) Image processing and electromagnetic computing.
+      Birthday: Feb.04 1996<br>
+      Email: fangzhou_tang@126.com<br>
+      Address: No. 5 Yiheyuan Rd., Haidian Dist., Beijing, P.R.China
 
 ## Education
 
