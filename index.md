@@ -11,6 +11,27 @@ Email: fangzhou_tang@126.com
 
 Address: No. 5 Yiheyuan Rd., Haidian Dist., Beijing, P.R.China
 
+<table border="0">
+  <tr>
+    <td width="75%">
+      <h1>Fangzhou Tang</h1>
+      <p><b>Ph.D. Canididate, Peking University</b></p>
+      <p><b>School of Electronics Engineering and Computer Science</b></p>
+      <p><b>Department of Electronics</b></p>
+	    <p><b>Research Interests<br>
+                 (1) Satellite navigation and positioning, inertial/intergated navigation;<br>
+                 (2) Communication, millimeter-wave technology;<br>
+                 (3) Image processing and electromagnetic computing.</b></p>
+      <p><b>Birthday: Feb.04 1996</b></p>
+      <p><b>Email: fangzhou_tang@126.com</b></p>
+      <p><b>Address: No. 5 Yiheyuan Rd., Haidian Dist., Beijing, P.R.China</b></p>
+    </td>
+    <td width="25%">
+      <img src="/portrait.jpg" width="100%">      % 插入证件照代码
+    </td>
+  </tr>
+</table>
+
 ## Education
 
 I received my B.S. degree in Electronic and Information Engineering from School of Microelectronics and Communication Engineering, Chongqing University(CQU), Jun. 2017 and M.S. degree in Electromagnetic Field and Microwave Technology, Department of Electronic Engineering, School of Electronic Information and Communications, Huazhong University of Science and Technology(HUST), Aug. 2020. The main research interests are target detection, image processing and millimeter-wave technology. At present, I'm a research assistant of Department of Electronic Engineering in HUST. From Sep. 2021 to Jun. 2025. I will persue my Ph.D. degree in Electromagnetic Field and Microwave Technology, Department of Electronics, School of Electronics Engineering and Computer Science, Peking University(PKU). The research interest in Satellite Navigation and Positioning.
