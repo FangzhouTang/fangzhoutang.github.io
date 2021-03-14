@@ -1,8 +1,5 @@
-## Welcome
-<table border="0">
-  <tr>
-    <td width="75%">
-      <center><h1>Fangzhou Tang</h1>
+## <h1>Welcome</h1>
+<h1>Hello! I'm Fangzhou</h1>
       <p><b>Ph.D. Candidate, Peking University</b></p>
       <p><b>School of Electronics Engineering and Computer Science</b></p>
       <p><b>Department of Electronics</b></p>
@@ -13,39 +10,6 @@
       <p><b>Birthday: Feb.04 1996</b></p>
       <p><b>Email: fangzhou_tang@126.com</b></p>
       <p><b>Address: No. 5 Yiheyuan Rd., Haidian Dist., Beijing, P.R.China</b></p>
-    </td>
-    <td width="25%">
-      <img src="/Portrait.jpg" width="50%">  
-    </td>
-  </tr>
-</table>
-
-<table border="0">
-  <tr>
-    <td width="75%">
-      <p><b>Fangzhou Tang</b></p>
-      <p><b>Ph.D. Candidate, Peking University</b></p>
-    </td>
-    <td width="25%">
-      <img src="/Portrait.jpg" width="100%">  
-    </td>
-  </tr>
-</table>
-
-<table border="0">
-  <tr>
-    <td width="75%">
-      <h1>张三</h1>
-      <p><b>硕士研究生</b></p>
-      <p><b>××大学××学院</b></p>
-      <p><b>邮箱：1234567789@qq.com</b></p>
-      <p><b>地址：××市××区××路××号××大学，××楼，邮编×××</b></p>
-    </td>
-    <td width="25%">
-      <img src="Portrait.jpg" width="100%">     
-    </td>
-  </tr>
-</table>
 
 ## Education
 
