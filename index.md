@@ -4,7 +4,7 @@ Department of Electronics, School of Electronics Engineering and Computer Scienc
       
 **Research Interests**<br>
   (1) Satellite navigation and positioning, inertial/intergated navigation;<br>
-  (2) Communication, millimeter-wave technology;<br>
+  (2) Communication, millimeter-wave/THz imaging technology;<br>
   (3) Image processing and electromagnetic computing.<br>
 	    
  Date of Birth: Feb. 04 1996<br>
@@ -222,8 +222,14 @@ Sina Weibo: [Link in Sina Weibo](weibo.com/p/1005055449688128/home?from=page_100
 【中文简历】
 <h1>唐 方 舟</h1>
 
-男 1996.02 汉 湖北省石首市 共青团员
+**北京大学 博士研究生**
 
+1996.02.04 汉 湖北省石首市 共青团员
+
+**研究方向**<br>
+  (1) 卫星导航与定位, 惯性/组合导航;<br>
+  (2) 通信, 毫米波/太赫兹成像;<br>
+  (3) 图像处理，电磁计算.<br>
 邮箱: fangzhou_tang@126.com
 
 地址:北京市海淀区颐和园路5号北京大学
