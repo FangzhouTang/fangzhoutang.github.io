@@ -23,7 +23,7 @@
 <table border="0">
   <tr>
     <td width="75%">
-      <h1>Fangzhou Tang</h1>
+      <p><b>Fangzhou Tang</b></p>
       <p><b>Ph.D. Candidate, Peking University</b></p>
     </td>
     <td width="25%">
