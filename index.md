@@ -217,7 +217,8 @@ Linkedin: [Link in Linkedin](linkedin.com/in/fangzhou-tang-69773519a)<br>
 
 Sina Weibo: [Link in Sina Weibo](weibo.com/p/1005055449688128/home?from=page_100505&mod=TAB&is_all=1#place)
 
-Chinese Version: 中文简历
+
+【中文简历】
 ## <h1>唐 方 舟</h1>
 
 男 1996.02 汉 湖北省石首市 共青团员
@@ -228,7 +229,8 @@ Chinese Version: 中文简历
 
 主页: https://fangzhoutang.github.io
 
-## 教育背景                                                                           
+## 教育背景  
+
 **北京大学  博士研究生(全日制学术型)**                     01/2021-06/2025     
 
 信息科学与技术学院  电子学系  应用电子学研究所
@@ -259,15 +261,17 @@ GPA: 3.23(7/30)         CET4: 542             CET6: 485
 
 科研团队: 多谱信息处理技术国家重点实验室
 
-## 科研成果                                                                           
+## 科研成果    
+
 **学术论文：**
+
 • **Fangzhou Tang**, Liangqi Gui, Jinbang Liu, Ke Chen, Liang Lang, and Yayun Cheng. Metal Target Detection Method Using Passive Millimeter-wave Polarimetric Imagery[J]. Optics Express, 2020, 28(9):13336-13351. (SCI&EI)
 
 • **Fangzhou Tang**, Liangqi Gui, Shuaidan Yan, Yu Ding, Bo Huang, Ke Chen and Liang Lang Passive Millimeter-Wave Imaging Experiment and Simulation of Bubbles in Ship Wakes. IEEE International Conference on Microwave and Millimeter Wave Technology (ICMMT), Guangzhou, China, May. 2019. (EI)
 
 • **Fangzhou Tang**, Liangqi Gui, Kaixin Deng, Ziwei Li, Ke Chen and Liang Lang. Mechanism and Analysis of Object Projected Shadow in Passive Millimeter-Wave Radiation Image. IEEE International Conference on Microwave and Millimeter Wave Technology (ICMMT), Shanghai, China, May. 2020. (Accepted 23 March 2020) (EI) 
 
-•	Shuaidan Yan, Liangqi Gui, **Fangzhou Tang**, Jinbang Liu, Ke Chen and Liang Lang. Passive Millimeter-Wave Radiation Characteristic Analysis of Kelvin Wake [C]. IEEE International Conference on Microwave and Millimeter Wave Technology (ICMMT), Shanghai, China, May. 2020. (Accepted 24 March 2020) (EI)
+• Shuaidan Yan, Liangqi Gui, **Fangzhou Tang**, Jinbang Liu, Ke Chen and Liang Lang. Passive Millimeter-Wave Radiation Characteristic Analysis of Kelvin Wake [C]. IEEE International Conference on Microwave and Millimeter Wave Technology (ICMMT), Shanghai, China, May. 2020. (Accepted 24 March 2020) (EI)
 
 •	严正行，管晓玲，**唐方舟**，印勇. 一种基于非均匀视频帧的车辆视频测速方法[J]. 电子世界, 2016, 38(13):177-178.  
 
