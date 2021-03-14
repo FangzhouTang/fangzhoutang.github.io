@@ -1,21 +1,9 @@
-## Welcome
-
-Hello! I'm Fangzhou (Feb.04 1996). 
-
-Research Interests<br>
-(1) Satellite navigation and positioning, inertial navigation, intergated navigation;<br>
-(2) Communication, millimeter-wave technology;<br>
-(3) Image processing and electromagnetic computing.
-
-Email: fangzhou_tang@126.com
-
-Address: No. 5 Yiheyuan Rd., Haidian Dist., Beijing, P.R.China
-
+###### Welcome
 <table border="0">
   <tr>
     <td width="75%">
       <h1>Fangzhou Tang</h1>
-      <p><b>Ph.D. Canididate, Peking University</b></p>
+      <p><b>Ph.D. Candidate, Peking University</b></p>
       <p><b>School of Electronics Engineering and Computer Science</b></p>
       <p><b>Department of Electronics</b></p>
 	    <p><b>Research Interests<br>
@@ -27,7 +15,7 @@ Address: No. 5 Yiheyuan Rd., Haidian Dist., Beijing, P.R.China
       <p><b>Address: No. 5 Yiheyuan Rd., Haidian Dist., Beijing, P.R.China</b></p>
     </td>
     <td width="25%">
-      <img src="/portrait.jpg" width="100%">      % 插入证件照代码
+      <img src="/Portrait.jpg" width="100%">  
     </td>
   </tr>
 </table>
