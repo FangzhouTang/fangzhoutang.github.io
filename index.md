@@ -2,7 +2,7 @@
 <table border="0">
   <tr>
     <td width="75%">
-      <h1>Fangzhou Tang</h1>
+      <center><h1>Fangzhou Tang</h1>
       <p><b>Ph.D. Candidate, Peking University</b></p>
       <p><b>School of Electronics Engineering and Computer Science</b></p>
       <p><b>Department of Electronics</b></p>
@@ -15,7 +15,7 @@
       <p><b>Address: No. 5 Yiheyuan Rd., Haidian Dist., Beijing, P.R.China</b></p>
     </td>
     <td width="25%">
-      <img src="/Portrait.jpg" width="100%">  
+      <img src="/Portrait.jpg" width="50%">  
     </td>
   </tr>
 </table>
