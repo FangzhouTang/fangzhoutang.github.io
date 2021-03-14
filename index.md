@@ -1,5 +1,4 @@
-## <h1>Welcome</h1>
-<h1>Hello! I'm Fangzhou</h1>
+## <h1>Hello! I'm Fangzhou</h1>
       <p><b>Ph.D. Candidate, Peking University</b></p>
       <p><b>School of Electronics Engineering and Computer Science</b></p>
       <p><b>Department of Electronics</b></p>
