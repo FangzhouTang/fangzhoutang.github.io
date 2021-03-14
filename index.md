@@ -25,7 +25,6 @@
     <td width="75%">
       <h1>Fangzhou Tang</h1>
       <p><b>Ph.D. Candidate, Peking University</b></p>
-    
     </td>
     <td width="25%">
       <img src="/Portrait.jpg" width="100%">  
