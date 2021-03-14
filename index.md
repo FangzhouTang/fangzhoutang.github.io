@@ -1,11 +1,11 @@
-## <h1>Hello! I'm Fangzhou</h1>
-      Ph.D. Candidate, Peking University<br>
-      School of Electronics Engineering and Computer Science<br>
-      Department of Electronics<br>
-	    <p><b>Research Interests<br>
-                 (1) Satellite navigation and positioning, inertial/intergated navigation;<br>
-                 (2) Communication, millimeter-wave technology;<br>
-                 (3) Image processing and electromagnetic computing.
+<h1>Hello! I'm Fangzhou</h1>
+      Ph.D. Candidate, Peking University
+      School of Electronics Engineering and Computer Science
+      Department of Electronics
+      Research Interests
+        (1) Satellite navigation and positioning, inertial/intergated navigation;
+        (2) Communication, millimeter-wave technology;
+        (3) Image processing and electromagnetic computing.
       Birthday: Feb.04 1996<br>
       Email: fangzhou_tang@126.com<br>
       Address: No. 5 Yiheyuan Rd., Haidian Dist., Beijing, P.R.China
@@ -219,7 +219,7 @@ Sina Weibo: [Link in Sina Weibo](weibo.com/p/1005055449688128/home?from=page_100
 
 
 【中文简历】
-## <h1>唐 方 舟</h1>
+<h1>唐 方 舟</h1>
 
 男 1996.02 汉 湖北省石首市 共青团员
 
@@ -231,7 +231,7 @@ Sina Weibo: [Link in Sina Weibo](weibo.com/p/1005055449688128/home?from=page_100
 
 ## 教育背景  
 
-**北京大学  博士研究生(全日制学术型)**                     01/2021-06/2025     
+**北京大学    博士研究生(全日制学术型)**                     01/2021-06/2025     
 
 信息科学与技术学院  电子学系  应用电子学研究所
 
@@ -424,7 +424,7 @@ GPA: 3.23(7/30)         CET4: 542             CET6: 485
 
 **其他主页**
 
-北大学者:信息科学技术学院，电子学系，电磁场与微波技术专业 (in press)<br>
+北大学者:信息科学技术学院，电子学系，电磁场与微波技术专业，卫星导航与定位<br>
 
 Research Gate: [Link in Research Gate](researchgate.net/profile/Fangzhou-Tang)<br>
 
