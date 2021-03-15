@@ -4,7 +4,7 @@ Department of Electronics, School of Electronics Engineering and Computer Scienc
       
 **Research Interests**<br>
   (1) Satellite navigation and positioning, inertial/intergated navigation;<br>
-  (2) Communication, millimeter-wave/THz imaging technology;<br>
+  (2) Communication, millimeter-wave(MMW)/terahertz(THz) imaging technology;<br>
   (3) Image processing and electromagnetic computing.<br>
 	    
  Date of Birth: Feb. 04 1996<br>
