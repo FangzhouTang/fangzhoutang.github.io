@@ -23,9 +23,9 @@ I received my B.S. degree in Electronic and Information Engineering from School 
 
 **Department of Electronics, School of Electronics Engineering and Computer Science**
 
-Sep. 2021-Jun. 2025
-
 Advisor: Prof.Bocheng Zhu
+
+Sep. 2021-Jun. 2025
 
 	
 ### **Huazhong University of Science and Technology					            ,Wuhan China**
