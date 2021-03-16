@@ -130,7 +130,7 @@ Sep./2017-Sep./2018
 
 •	Used Ansys Fluent to simulate the flow field of aircraft tail flames with different fuels and thrusts, including temperature field, electron density distribution, pressure field, etc.
 
-•	U.S. HITRAN spectral database was used to calculate the absorption coefficients in the millimeter wave band for CO2, HCL, H20, O2 and other gases and used to calculate the electromagnetic radiation intensity.
+•	U.S. HITRAN spectral database was used to calculate the absorption coefficients in the millimeter wave band for CO<sup>2</sup>, HCL, H<sup>2</sup>0, O<sup>2</sup> and other gases and used to calculate the electromagnetic radiation intensity.
 
 •	Plasma theory was used to analyze the plasma distribution in the tail flame. Combined with the bremsstrahlung theory, the plasma radiation intensity of the tail flame was calculated.
 
@@ -362,7 +362,7 @@ GPA: 3.23(7/30)         CET4: 542             CET6: 485
 导师: 桂良启 教授                                                            09/2017-09/2018                                                                                                         
 •	利用Ansys Fluent对不同燃料和推力作用下的飞机尾焰流场进行了模拟，包括温度场、电子密度分布、压力场等。
 
-•	美国HITRAN光谱数据库用于计算CO2、HCL、H20、O2等气体在毫米波波段的吸收系数，并用于计算电磁辐射强度。
+•	美国HITRAN光谱数据库用于计算CO<sub>2</sub>、HCL、H<sub>2/<sub>0、O<sub>2</sub>等气体在毫米波波段的吸收系数，并用于计算电磁辐射强度。
 
 •	等离子体理论用于分析尾焰中的等离子体分布。结合轫致辐射理论，计算了尾焰等离子体辐射强度。
 
