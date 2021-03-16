@@ -67,7 +67,7 @@ Sep. 2020-Jun. 2021
 
 •	**Fangzhou Tang**. Research on characteristics analysis and target detection method in millimeter-wave radiation image of ship target on sea surface[D]. *Huazhong University of Science and Technology*, 2020. **(Master's Thesis)** [in Publishing]
 
-•	**Fangzhou Tang**, Liangqi Gui * , Shuaidan Yan, Yu Ding, Bo Huang, Ke Chen and Liang Lang. Passive Millimeter-Wave Imaging Experiment and Simulation of Bubbles in Ship Wakes[C]. *IEEE International Conference on Microwave and Millimeter Wave Technology (ICMMT)*, Guangzhou, China, May. 2019. **(EI)**[[PDF]( https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8992427)]
+•	**Fangzhou Tang**, Liangqi Gui * , Shuaidan Yan, Yu Ding, Bo Huang, Ke Chen and Liang Lang. Passive Millimeter-Wave Imaging Experiment and Simulation of Bubbles in Ship Wakes[C]. *IEEE International Conference on Microwave and Millimeter Wave Technology (ICMMT)*, Guangzhou, China, May. 2019. **(EI)** [[PDF]( https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8992427)]
 
 •	**Fangzhou Tang**, Liangqi Gui * , Kaixin Deng, Ziwei Li, Ke Chen and Liang Lang. Analysis of Shadow in Passive Millimeter-Wave Radiation Image[C]. *IEEE International Conference on Microwave and Millimeter Wave Technology (ICMMT)*, Shanghai, China, Sep. 2020. **(EI)** [in Publishing]
 
