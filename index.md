@@ -275,17 +275,27 @@ GPA: 3.23(7/30)         CET4: 542             CET6: 485
 
 • **Fangzhou Tang**, Liangqi Gui, Jinbang Liu, Ke Chen, Liang Lang, and Yayun Cheng. Metal Target Detection Method Using Passive Millimeter-wave Polarimetric Imagery[J]. Optics Express, 2020, 28(9):13336-13351. (SCI&EI)
 
+• **唐方舟**. 海面舰船毫米波辐射图像特征分析与目标检测方法研究[D]. *华中科技大学*, 2020. [in Publishing]
+
 • **Fangzhou Tang**, Liangqi Gui, Shuaidan Yan, Yu Ding, Bo Huang, Ke Chen and Liang Lang Passive Millimeter-Wave Imaging Experiment and Simulation of Bubbles in Ship Wakes. IEEE International Conference on Microwave and Millimeter Wave Technology (ICMMT), Guangzhou, China, May. 2019. (EI)
 
 • **Fangzhou Tang**, Liangqi Gui, Kaixin Deng, Ziwei Li, Ke Chen and Liang Lang. Mechanism and Analysis of Object Projected Shadow in Passive Millimeter-Wave Radiation Image. IEEE International Conference on Microwave and Millimeter Wave Technology (ICMMT), Shanghai, China, May. 2020. (Accepted 23 March 2020) (EI) 
 
+• Xinling Liu, Liangqi Gui * , **Fangzhou Tang**, Yubin Jin, Ke Chen, Liang Lang. Impact of Zooplankton on Underwater Wireless Optical Channel Transmission[C]. *IEEE International Conference on Microwave and Millimeter Wave Technology (ICMMT)*, Nanjing, China, May. 2021. **(EI)**[in Publishing]
+
+• Kaixin Deng, Liangqi Gui * , Wenning Xu, **Fangzhou Tang**, Ke Chen and Liang Lang. Target Detection Method Based on Reflection in Passive Millimeter-Wave Radiation Image[C]. *IEEE International Conference on Microwave and Millimeter Wave Technology (ICMMT)*, Nanjing, China, May. 2021. **(EI)**[in Publishing]
+
 • Shuaidan Yan, Liangqi Gui, **Fangzhou Tang**, Jinbang Liu, Ke Chen and Liang Lang. Passive Millimeter-Wave Radiation Characteristic Analysis of Kelvin Wake [C]. IEEE International Conference on Microwave and Millimeter Wave Technology (ICMMT), Shanghai, China, May. 2020. (Accepted 24 March 2020) (EI)
 
-•	严正行，管晓玲，**唐方舟**，印勇. 一种基于非均匀视频帧的车辆视频测速方法[J]. 电子世界, 2016, 38(13):177-178.  
+• 严正行，管晓玲，**唐方舟**，印勇. 一种基于非均匀视频帧的车辆视频测速方法[J]. 电子世界, 2016, 38(13):177-178.  
 
-•	丁宇，桂良启，陈雄，赵锋，**唐方舟**，黄博，姚崇斌，张喆. 非均匀温度隐身涂层毫米波辐射仿真与实验 [C]. 全国微波毫米波会议，上海，中国，2020 年 5 月.（已接收）
+• 丁宇，桂良启，陈雄，赵锋，**唐方舟**，黄博，姚崇斌，张喆. 非均匀温度隐身涂层毫米波辐射仿真与实验 [C]. 全国微波毫米波会议，上海，中国，2020 年 5 月.（已接收）
 
-•	游鑫，桂良启，桂小宝，陈柯，郎量，**唐方舟**. 一种加载超材料的低副瓣毫米波共轭直线渐变缝隙天线 [C]. 全国微波毫米波会议，广州，中国，201 9 年 5 月：971-974.
+• 游鑫，桂良启，桂小宝，陈柯，郎量，**唐方舟**. 一种加载超材料的低副瓣毫米波共轭直线渐变缝隙天线 [C]. 全国微波毫米波会议，广州，中国，2019 年 5 月：971-974.
+
+• 韩卓廷, 桂良启, 程亚运, 苏金龙, 黄博, **唐方舟**. 运动对飞行器毫米波辐射特性的影响研究[C]. 全国微波毫米波会议, 成都, 中国, 2018 年 5 月: 1016-1019.
+
+• 黄博, 桂良启, 程亚运, 苏金龙, 韩卓廷, **唐方舟**. 非均匀温度剖面隐身涂层材料的毫米波辐射特性[C]. 全国微波毫米波会议, 成都, 中国, 2018 年 5 月: 588-591.
 
 专利：
 •	印勇，严正行，管晓玲，**唐方舟**. 一种基于非均匀视频帧的实时车辆视频测速系统. 中国发明专利. 专利号: ZL 201610327118.4. 专利公开时间：2018.02.09.
