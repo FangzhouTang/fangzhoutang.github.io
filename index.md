@@ -75,6 +75,8 @@ Sep. 2020-Jun. 2021
 
 •	Kaixin Deng, Liangqi Gui * , Wenning Xu, **Fangzhou Tang**, Ke Chen and Liang Lang. Target Detection Method Based on Reflection in Passive Millimeter-Wave Radiation Image[C]. *IEEE International Conference on Microwave and Millimeter Wave Technology (ICMMT)*, Nanjing, China, May. 2021. **(EI)** [in Publishing]
 
+•	Xiaobao Gui, Liangqi Gui*, Kai Leng, Xin Chen, Lixing Liu, **Fangzhou Tang**, Ke Chen, Liang Lang. Phase Gradient Metasurface Wall Structure For Antenna Array Decoupling[C]. *IEEE International Conference on Microwave and Millimeter Wave Technology (ICMMT)*, Nanjing, China, May. 2021. **(EI)** [in Publishing]
+
 •	Shuaidan Yan, Liangqi Gui * , **Fangzhou Tang**, Jinbang Liu, Ke Chen, and Liang Lang. Passive Millimeter-Wave Radiation Characteristic Analysis of Kelvin Wake[C]. *IEEE International Conference on Microwave and Millimeter Wave Technology (ICMMT)*, Shanghai, China, Sep. 2020. **(EI)** [in Publishing]
 
 •	Yu Ding, Liangqi Gui * , Xiong Chen, Feng Zhao, **Fangzhou Tang**, Bo Huang, Chongbin Yao, Zhe Zhang. Simulation and Experiment of Millimeter Wave Radiation of Non-uniform Temperature Stealth Coating[C]. *National Conference on Microwave Millimeter Wave (NCMMW)*, Shanghai, China, Sep. 2020. **(CNKI)** [in Publishing]
@@ -284,6 +286,8 @@ GPA: 3.23(7/30)         CET4: 542             CET6: 485
 • Xinling Liu, Liangqi Gui * , **Fangzhou Tang**, Yubin Jin, Ke Chen, Liang Lang. Impact of Zooplankton on Underwater Wireless Optical Channel Transmission[C]. *IEEE International Conference on Microwave and Millimeter Wave Technology (ICMMT)*, Nanjing, China, May. 2021. **(EI)** [in Publishing]
 
 • Kaixin Deng, Liangqi Gui * , Wenning Xu, **Fangzhou Tang**, Ke Chen and Liang Lang. Target Detection Method Based on Reflection in Passive Millimeter-Wave Radiation Image[C]. *IEEE International Conference on Microwave and Millimeter Wave Technology (ICMMT)*, Nanjing, China, May. 2021. **(EI)** [in Publishing]
+
+• Xiaobao Gui, Liangqi Gui*, Kai Leng, Xin Chen, Lixing Liu, **Fangzhou Tang**, Ke Chen, Liang Lang. Phase Gradient Metasurface Wall Structure For Antenna Array Decoupling[C]. *IEEE International Conference on Microwave and Millimeter Wave Technology (ICMMT)*, Nanjing, China, May. 2021. **(EI)** [in Publishing]
 
 • Shuaidan Yan, Liangqi Gui * , **Fangzhou Tang**, Jinbang Liu, Ke Chen and Liang Lang. Passive Millimeter-Wave Radiation Characteristic Analysis of Kelvin Wake [C]. *IEEE International Conference on Microwave and Millimeter Wave Technology (ICMMT)*, Shanghai, China, May. 2020. (Accepted 24 March 2020) **(EI)** [in Publishing]
 
