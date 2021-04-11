@@ -69,7 +69,7 @@ Sep. 2020-Jun. 2021
 
 •	**Fangzhou Tang**, Liangqi Gui * , Shuaidan Yan, Yu Ding, Bo Huang, Ke Chen and Liang Lang. Passive Millimeter-Wave Imaging Experiment and Simulation of Bubbles in Ship Wakes[C]. *IEEE International Conference on Microwave and Millimeter Wave Technology (ICMMT)*, Guangzhou, China, May. 2019. **(EI)** [[PDF]( https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8992427)]
 
-•	**Fangzhou Tang**, Liangqi Gui * , Kaixin Deng, Ziwei Li, Ke Chen and Liang Lang. Analysis of Shadow in Passive Millimeter-Wave Radiation Image[C]. *IEEE International Conference on Microwave and Millimeter Wave Technology (ICMMT)*, Shanghai, China, Sep. 2020. **(EI)** [in Publishing]
+•	**Fangzhou Tang**, Liangqi Gui * , Kaixin Deng, Ziwei Li, Ke Chen and Liang Lang. Analysis of Shadow in Passive Millimeter-Wave Radiation Image[C]. *IEEE International Conference on Microwave and Millimeter Wave Technology (ICMMT)*, Shanghai, China, Sep. 2020. **(EI)** [[PDF]( https://ieeexplore.ieee.org/document/9387053)]
 
 •	Xinling Liu, Liangqi Gui * , **Fangzhou Tang**, Yubin Jin, Ke Chen, Liang Lang. Impact of Zooplankton on Underwater Wireless Optical Channel Transmission[C]. *IEEE International Conference on Microwave and Millimeter Wave Technology (ICMMT)*, Nanjing, China, May. 2021. **(EI)** [in Publishing]
 
@@ -77,7 +77,7 @@ Sep. 2020-Jun. 2021
 
 •	Xiaobao Gui, Liangqi Gui * , Kai Leng, Xin Chen, Lixing Liu, **Fangzhou Tang**, Ke Chen, Liang Lang. Phase Gradient Metasurface Wall Structure For Antenna Array Decoupling[C]. *IEEE International Conference on Microwave and Millimeter Wave Technology (ICMMT)*, Nanjing, China, May. 2021. **(EI)** [in Publishing]
 
-•	Shuaidan Yan, Liangqi Gui * , **Fangzhou Tang**, Jinbang Liu, Ke Chen, and Liang Lang. Passive Millimeter-Wave Radiation Characteristic Analysis of Kelvin Wake[C]. *IEEE International Conference on Microwave and Millimeter Wave Technology (ICMMT)*, Shanghai, China, Sep. 2020. **(EI)** [in Publishing]
+•	Shuaidan Yan, Liangqi Gui * , **Fangzhou Tang**, Jinbang Liu, Ke Chen, and Liang Lang. Passive Millimeter-Wave Radiation Characteristic Analysis of Kelvin Wake[C]. *IEEE International Conference on Microwave and Millimeter Wave Technology (ICMMT)*, Shanghai, China, Sep. 2020. **(EI)** [[PDF]( https://ieeexplore.ieee.org/document/9386344)]
 
 •	Yu Ding, Liangqi Gui * , Xiong Chen, Feng Zhao, **Fangzhou Tang**, Bo Huang, Chongbin Yao, Zhe Zhang. Simulation and Experiment of Millimeter Wave Radiation of Non-uniform Temperature Stealth Coating[C]. *National Conference on Microwave Millimeter Wave (NCMMW)*, Shanghai, China, Sep. 2020. **(CNKI)** [in Publishing]
 
