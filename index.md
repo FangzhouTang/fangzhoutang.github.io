@@ -8,7 +8,7 @@ Department of Electronics, School of Electronics Engineering and Computer Scienc
   (3) Image processing and electromagnetic computing.<br>
 	    
  Date of Birth: Feb. 04 1996<br>
- Email: fangzhou_tang@126.com / tangfz@hust.edu.cn<br>
+ Email: fangzhou_tang@126.com / tangfz@hust.edu.cn / tangfz@stu.pku.edu.cn<br>
  Address: No. 5 Yiheyuan Rd., Haidian Dist., Beijing, P.R.China
 
 ## Education
