@@ -3,7 +3,7 @@
 Department of Electronics, School of Electronics Engineering and Computer Science
       
 **Research Interests**<br>
-  (1) Satellite navigation and positioning, inertial/intergated navigation;<br>
+  (1) Satellite navigation and positioning, inertial/intergated navigation, simultaneous localization and mapping;<br>
   (2) Communication, millimeter-wave(MMW)/terahertz(THz) imaging technology;<br>
   (3) Image processing and electromagnetic computing.<br>
 	    
@@ -212,7 +212,7 @@ Sep./2016-jun./2017
 • Excellent Master of Science in Engineering in 2020 (Summer)
 
 ## Contacts
-Scholars@Peking University: Link in School of Electronics Engineering and Computer Science Peking University (in press)<br>
+Peking University: [Link in Schloar@Peking University](http://scholar.pku.edu.cn/tangfangzhou)<br>
 
 Research Gate: [Link in Research Gate](researchgate.net/profile/Fangzhou-Tang)<br>
 
@@ -447,7 +447,7 @@ GPA: 3.23(7/30)         CET4: 542             CET6: 485
 
 **其他主页**
 
-北大学者:信息科学技术学院，电子学系，电磁场与微波技术专业，卫星导航与定位<br>
+北大学者: [Link in Scholar@Peking University](http://scholar.pku.edu.cn/tangfangzhou)<br>
 
 Research Gate: [Link in Research Gate](researchgate.net/profile/Fangzhou-Tang)<br>
 
